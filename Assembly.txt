@@ -1,0 +1,4 @@
+$ Assembly of Scaffoldfile.txt
+Sum = 13383130, n = 63, average = 212430.634921, max = 1905393
+N50 = 1140790, n = 5
+    
